@@ -14,8 +14,8 @@
 - https://projecteuler.net/
 - https://www.codeeval.com/
 - https://www.topcoder.com/
-- **Warning, not https :-(** *www.codewars.com*
+- **Warning, not https :-(** `codewars.com`
 
 ## Algorithms
 
-- **Warning, not https :-(** *algorithm.codingdojo.com*
+- **Warning, not https :-(** `algorithm.codingdojo.com`
