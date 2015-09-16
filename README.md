@@ -14,6 +14,7 @@
 - https://projecteuler.net/
 - https://www.codeeval.com/
 - https://www.topcoder.com/
+- https://pragprog.com/book/bhwb/exercises-for-programmers (Book)
 - **Warning, not https :-(** `codewars.com`
 
 ## Algorithms
